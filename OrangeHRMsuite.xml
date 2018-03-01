@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite" parallel="tests" >
+  <test name="Test 1" >
+      <classes>
+          <class name="com.hrm.qa.testcases.HomePageTest"/>
+          <class name="com.hrm.qa.testcases.LoginPageTest"/>
+      </classes> 
+ </test>
+</suite>
